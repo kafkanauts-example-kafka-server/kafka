@@ -4,7 +4,7 @@
   <a href="project documentation URL goes here" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/oslabs-beta/kafkanauts/blob/dev/LICENSE" target="_blank">
+  <a href="https://github.com/kafkanauts-example-kafka-server/kafka/blob/main/LICENSE.txt" target="_blank">
     <img alt="License: MIT License" src="https://img.shields.io/badge/License-MIT License-yellow.svg" />
   </a>
 </p>
@@ -70,6 +70,6 @@ Give a ⭐ if this project helped you!
 ## 📝 License
 
 Copyright © 2022 [Kafkanauts](https://github.com/oslabs-beta/kafkanauts).<br />
-This project is [MIT License](https://github.com/oslabs-beta/kafkanauts/blob/dev/LICENSE) licensed.
+This project is [MIT License](https://github.com/kafkanauts-example-kafka-server/kafka/blob/main/LICENSE.txt) licensed.
 
 ***

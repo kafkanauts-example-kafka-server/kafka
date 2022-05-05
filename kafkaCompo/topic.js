@@ -5,7 +5,7 @@ async function run() {
     try {
         const kafka = new Kafka({
             clientId: 'myapp',
-            brokers: ['localhost:9092']
+            brokers: ['localhost:9092', 'localhost:9093', 'localhost:9094', 'localhost:9095']
         });
 
         const admin = kafka.admin();
@@ -23,11 +23,16 @@ async function run() {
 
                 {
                     topic: 'Transactions',
-                    numPartitions: 3,
+                    numPartitions: 2,
                 },
 
                 { 
-                    topic: 'Activities',
+                    topic: 'Orders',
+                    numPartitions: 2,
+                },
+                
+                {
+                    topic: 'Order Status',
                     numPartitions: 2,
                 }
             ]

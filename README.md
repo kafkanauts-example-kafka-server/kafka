@@ -36,7 +36,7 @@ docker compose up
 
 ```
 
-* To start your Producer and Consumer, open up two terminals and enter the pairs of commands separately:
+* To start your Producer and Consumer, open up two terminals and enter the following pairs of commands separately:
 
 ```sh
 cd components

@@ -46,8 +46,7 @@ cd components
 node consumer.js
 
 ```
-* To see the metrics on Prometheus, enter localhost:9090 on your browser.
-* Enter the query for the desired metrics and execute.
+* To see the metrics on Prometheus, enter localhost:9090 on your browser and execute the query for the desired metrics.
 
 
 ## 🚀 Engineering Team

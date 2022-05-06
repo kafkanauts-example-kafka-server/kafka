@@ -1,5 +1,6 @@
-<h1 align="center"><strong>Example Kafka Server - Kafkanauts</strong></h1>
 <p align="center">
+  <img src="https://i.imgur.com/PGcnitN.png" width="300" height="300">
+  <h1 align="center"><strong>Example Kafka Server - Kafkanauts</strong></h1>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="project documentation URL goes here" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
@@ -47,6 +48,8 @@ node consumer.js
 
 ```
 * To see the metrics on Prometheus, enter localhost:9090 on your browser and execute the query for the desired metrics.
+
+* We have a real-time monitoring tool for Kafka servers--click [here](https://github.com/oslabs-beta/kafkanauts).
 
 
 ## 🚀 Engineering Team

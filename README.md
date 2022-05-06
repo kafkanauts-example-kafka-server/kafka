@@ -59,6 +59,7 @@ node consumer.js
 * 👨‍🚀 [David Lee](https://github.com/davidlee7731) | david.lee@kafkanauts.com
 * 👩‍🚀 [Jane Park](https://github.com/janesunpark) | jane.park@kafkanauts.com
 
+* LinkedIn: [@kafkanauts](https://www.linkedin.com/company/kafkanauts/)
 
 ## 🚀 Guide to Contribution
 
